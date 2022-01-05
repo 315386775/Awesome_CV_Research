@@ -11,7 +11,7 @@ A curated list of awesome Paper resources in Deep learning and computer vision.
 
 # Overview
 
-Review
+Transformers in Vision
 
 Segmentation
 
